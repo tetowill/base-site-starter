@@ -1,0 +1,7 @@
+node_modules/
+bower_components/
+dist/
+**/.sass-cache/
+
+# lib folder is just being used to store copied bower files
+src/lib/

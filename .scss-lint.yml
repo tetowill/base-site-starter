@@ -1,0 +1,8 @@
+# defaults - https://github.com/brigade/scss-lint/blob/master/config/default.yml
+# linter documentation - https://github.com/brigade/scss-lint/blob/master/lib/scss_lint/linter/README.md
+
+scss_files: "src/css/**/*.scss"
+
+linters:
+  PropertySortOrder:
+    enabled: false
